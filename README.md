@@ -20,12 +20,11 @@ Areas of interest include, but are not limited to:
 
 - Gaming and application performance
 - CPU, GPU, memory, and system bottlenecks
-- BIOS, firmware, and system-level configuration
 - Power management and thermal behavior
 - Drivers and software optimization
 - Hardware feature unlocking and configuration modifications
 - Performance anomalies and their underlying mechanisms
-- Benchmark methodology and data analysis
+- Some werid software and hardware solutions (for exapmle, OCuLink GPU dock)
 
 The project emphasizes transparent testing procedures, reproducible results, 
 evidence-based analysis, and explicit documentation of known limitations.
