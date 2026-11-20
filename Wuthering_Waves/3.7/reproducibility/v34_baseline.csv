@@ -1,0 +1,13 @@
+﻿device,scene,average_fps,low_1pct_fps,source_version
+R9000P 2021,Startorch Academy,52,24.6,3.4.17 build 7789993
+R9000P 2023,Startorch Academy,79.5,38.6,3.4.17 build 7789993
+R9000P 2025,Startorch Academy,79.4,39.4,3.4.17 build 7789993
+TUF A14 2025,Startorch Academy,64,32.5,3.4.17 build 7789993
+R9000P 2021,Lahar-Roi,51.9,21.9,3.4.17 build 7789993
+R9000P 2023,Lahar-Roi,75.1,35.7,3.4.17 build 7789993
+R9000P 2025,Lahar-Roi,79.1,36.4,3.4.17 build 7789993
+TUF A14 2025,Lahar-Roi,64.1,29,3.4.17 build 7789993
+R9000P 2021,Whimpering Wastes,65.6,22.8,3.4.17 build 7789993
+R9000P 2023,Whimpering Wastes,92.4,34.5,3.4.17 build 7789993
+R9000P 2025,Whimpering Wastes,94.5,35.4,3.4.17 build 7789993
+TUF A14 2025,Whimpering Wastes,76.5,26.8,3.4.17 build 7789993

@@ -1,0 +1,21 @@
+﻿device,scene,runs,average_fps,low_1pct_fps
+R9000P 2021,Startorch Academy,3,60.036720,34.078803
+R9000P 2021,Lahai-Roi,4,62.667598,31.191917
+R9000P 2021,Whimpering Wastes,3,77.409438,35.690644
+R9000P 2021,Three-scene equal-weight mean,10,66.704585,33.653788
+R9000P 2023,Startorch Academy,3,84.058589,41.718078
+R9000P 2023,Lahai-Roi,4,80.915341,40.619095
+R9000P 2023,Whimpering Wastes,3,99.891501,49.505364
+R9000P 2023,Three-scene equal-weight mean,10,88.288477,43.947513
+R9000P 2025,Startorch Academy,3,91.785173,49.791920
+R9000P 2025,Lahai-Roi,4,92.935293,42.833239
+R9000P 2025,Whimpering Wastes,3,108.511430,53.649420
+R9000P 2025,Three-scene equal-weight mean,10,97.743965,48.758193
+TUF A14 2025,Startorch Academy,3,74.052177,41.623008
+TUF A14 2025,Lahai-Roi,4,78.534753,38.318097
+TUF A14 2025,Whimpering Wastes,3,92.344815,40.562279
+TUF A14 2025,Three-scene equal-weight mean,10,81.643915,40.167795
+ThinkBook 16p 2025,Startorch Academy,3,96.667839,52.540793
+ThinkBook 16p 2025,Lahai-Roi,4,95.269554,48.160799
+ThinkBook 16p 2025,Whimpering Wastes,3,109.703312,55.257211
+ThinkBook 16p 2025,Three-scene equal-weight mean,10,100.546902,51.986268
